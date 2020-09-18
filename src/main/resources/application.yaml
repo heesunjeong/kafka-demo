@@ -1,0 +1,9 @@
+spring:
+  kafka:
+    bootstrap-servers: 127.0.0.1:9092
+    #consumer:
+      # group-id: joy-group
+      # auto-offset-reset: earliest
+      # enable-auto-commit: false
+      # heartbeat-interval: 100000
+      # fetch-max-wait: 300000
